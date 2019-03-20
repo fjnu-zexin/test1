@@ -41,4 +41,4 @@
 
 
 截图：
-https://github.com/fjnu-zexin/test1/blob/master/img/test1p1.PNG
+![Image text]（https://github.com/fjnu-zexin/test1/blob/master/img/test1p1.PNG）
